@@ -1,0 +1,31 @@
+1 - Теория автоматизации тестирования
+2 - Системы контроля версия, Git, GitHub
+3 - JS - Переменные, операторы
+4 - JS - Сравнение данных, if, switch
+5 - JS - Работа со string, number, for, while
+6 - JS - Массивы, spread
+7 - JS - Функции
+8 - JS - Методы массивов, Set
+9 - JS - Объекты
+10 - JS - Контекст this, замыкания, Date
+11 - JS - OOP, работа с классами
+12 - JS - Promises, Async functions, Event Loop
+13 - TS - Типы, Интерфейсы, базовая типизация
+14 - TS - Дженерики, классы
+15 - TS - Utility types
+16 - TS - ES Modules, Code quality (ESlint, Prettier, Husky)
+17 - TS - Введение в паттерны проектирования и принципы SOLID
+18 - AQA - Введение в автоматизацию, работа с селекторами (css, XPath)
+19 - AQA - Тестирование UI с селениумом (WebdriverIO)
+20 - AQA - Тестирование U с селениумом (WebdriverIO)
+21 - AQA - Построение TAF (test automation framework)
+22 - AQA - Конфиг, Репортинг
+23 - AQA - Тестирование API
+24 - AQA - Тестирование API
+25 - AQA - BDD с использованием Cucumber
+26 - AQA - BDD с использованием Cucumber
+27 - AQA - TAF Advanced (UI + API)
+28 - AQA - Тестирование UI и API с Playwright
+29 - AQA - Тестирование UI и API с Playwright
+30 - AQA - Интеграция с CI/CD
+31 - AQA - Финальный проект
