@@ -1,0 +1,3 @@
+modified bug_report.txt. file
+Step 18
+renamed file from "bug_report.txt." to "bug_report.txt"  because I couldn't execute command git pull. "error: invalid path 'bug_report.txt.'"
